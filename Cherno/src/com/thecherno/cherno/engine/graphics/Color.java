@@ -9,6 +9,10 @@ public class Color {
 	public static final Color RED = new Color(0xff0000);
 	public static final Color GREEN = new Color(0xff00);
 	public static final Color BLUE = new Color(0xff);
+	public static final Color MAGENTA = Color(0xff00ff);
+	public static final Color GRAY = new Color(0xc0c0c0);
+	public static final Color CYAN = new Color(0x00ffff);
+	public static final Color BROWN = new Color(0x773300);
 
 	private int color;
 
